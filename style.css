@@ -1,0 +1,55 @@
+.block {
+    display: block;
+}
+
+
+ #highScore, #intro, #gameOver{
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#startButton{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    
+}
+
+.btn{
+    background-color: #B22222;
+    margin: 35px;
+    text-decoration-style: wavy;
+}
+
+
+#question {
+    font-size: 30px;
+}
+
+div{
+    margin-top: 40px;
+}
+
+ul{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+}
+
+li {
+    height: 50px;
+    width: 400px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: rgb(255, 0, 242);
+    color: black;
+    font-size: 25px;
+    line-height: 10px;
+    text-align: center;
+  }
+  
