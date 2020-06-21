@@ -66,8 +66,6 @@ var questionEl = document.getElementById("question");
 var answerButtonEl = document.getElementById("answerButton");
 var gameOverScreen = document.getElementById("gameOver");
 var highScoreScreen = document.getElementById("highScore");
-var finalScoreEl = document.getElementById("finalScore");
-var goBack = document.getElementById("goBack");
 var clearScore = document.getElementById("clearScore");
 
 
