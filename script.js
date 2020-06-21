@@ -114,7 +114,7 @@ function startQuiz(){
 }
 
 //function to show the quiz's question and answer
-function showQuestion(){
+    function showQuestion(){
     var correctAns = quizQuestions[questionIndex].correct;
 
     //showing the quiz's question
